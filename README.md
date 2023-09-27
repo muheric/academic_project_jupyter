@@ -1,6 +1,6 @@
 # Instruction pour executer le script
 
-##Clone the repository
+## Clone the repository
 ```bash 
 git clone https://github.com/muheric/academic_project_jupyter.git
 cd academic_project_jupyter
